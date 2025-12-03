@@ -3,7 +3,13 @@
     "Here are translations that exist in secondary locales but not in <en>.",
     "[--full enabled] Furthermore, translations not used in 'lib/' according to the 't.<path>' pattern are written into <en>."
   ],
-  "en": {},
+  "en": {
+    "Values": {
+      "RelicAbilityTypeDescription": {
+        "IceShard": "Hurl a shard of ice at a nearby enemy, dealing damage and slowing them."
+      }
+    }
+  },
   "de": {},
   "es": {},
   "fil": {},

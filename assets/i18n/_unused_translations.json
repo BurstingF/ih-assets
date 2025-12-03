@@ -4,21 +4,40 @@
     "[--full enabled] Furthermore, translations not used in 'lib/' according to the 't.<path>' pattern are written into <en>."
   ],
   "en": {
-    "Values": {
-      "RelicAbilityTypeDescription": {
-        "IceShard": "Hurl a shard of ice at a nearby enemy, dealing damage and slowing them."
+    "Components": {
+      "VipLifetimeUnsubscribePopup": {
+        "Title": "VIP Lifetime Upgrade",
+        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
+        "ManageSubscriptionButton": "Manage Subscription",
+        "DontShowAgainButton": "Don't show this again"
+      }
+    },
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "You are already ${vip: String}!"
+        }
       }
     }
   },
+  "ar": {},
   "de": {},
   "es": {},
   "fil": {},
   "fr": {},
+  "id": {},
+  "it": {},
   "ja": {},
   "ko": {},
+  "ms": {},
   "nl": {},
+  "pl": {},
   "pt-BR": {},
+  "ru": {},
   "th": {},
+  "tr": {},
+  "uk": {},
   "vi": {},
-  "zh": {}
+  "zh-CN": {},
+  "zh-Hant": {}
 }

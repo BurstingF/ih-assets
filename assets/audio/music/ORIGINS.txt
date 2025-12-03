@@ -1,4 +1,3 @@
-factory.mp3 - https://pixabay.com/music/pop-funny-bgm-vol5-242455/
 main_menu.mp3 - https://pixabay.com/music/happy-childrens-tunes-spring-day-no-copyright-music-148507/
 guild_boss.mp3 - https://pixabay.com/music/upbeat-donx27t-give-up-180419/
 guild.mp3 - https://pixabay.com/music/upbeat-black-spot-226244/

@@ -11,29 +11,7 @@
   "ko": {},
   "nl": {},
   "pt-BR": {},
-  "th": {
-    "Components": {
-      "GuildHistoryPopup": {
-        "Title": "Guild History",
-        "NoRecentHistory": "No Recent Guild History",
-        "SystemLabel": "SYSTEM",
-        "UnknownEvent": "Unknown event occurred",
-        "Unknown": "Unknown",
-        "RaidEvent": "[${memberName}] dealt ${damage} damage to the Guild Boss and was ${result}",
-        "MemberJoined": "[${memberName}] joined the guild",
-        "MemberLeft": "[${memberName}] left the guild",
-        "MemberRemoved": "[${memberName}] was removed from the guild by [${removedBy}]",
-        "RoleChanged": "[${memberName}]'s role changed from ${previousRole} to ${newRole} by [${changedBy}]",
-        "CheckedIn": "[${memberName}] checked in",
-        "ContestedTerritory": "[${memberName}] contested [${territory}] and ${result}",
-        "Victorious": "VICTORIOUS",
-        "Defeated": "DEFEATED",
-        "Won": "WON",
-        "Tied": "TIED",
-        "Lost": "LOST"
-      }
-    }
-  },
+  "th": {},
   "vi": {},
   "zh": {}
 }

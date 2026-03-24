@@ -3,204 +3,24 @@
     "Here are translations that exist in <en> but not in secondary locales.",
     "After editing this file, you can run 'dart run slang apply --locale=<locale>' to quickly apply the newly added translations."
   ],
-  "ar": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    }
-  },
-  "de": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    }
-  },
-  "es": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    }
-  },
-  "fil": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    }
-  },
-  "fr": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    }
-  },
-  "id": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    }
-  },
-  "it": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    }
-  },
-  "ja": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    }
-  },
-  "ko": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    }
-  },
-  "ms": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    }
-  },
-  "nl": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    }
-  },
-  "pl": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    }
-  },
-  "pt-BR": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    }
-  },
-  "ru": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    }
-  },
-  "th": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    }
-  },
-  "tr": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    }
-  },
-  "uk": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    }
-  },
-  "vi": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    }
-  },
-  "zh-CN": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    }
-  },
-  "zh-Hant": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    }
-  }
+  "ar": {},
+  "de": {},
+  "es": {},
+  "fil": {},
+  "fr": {},
+  "id": {},
+  "it": {},
+  "ja": {},
+  "ko": {},
+  "ms": {},
+  "nl": {},
+  "pl": {},
+  "pt-BR": {},
+  "ru": {},
+  "th": {},
+  "tr": {},
+  "uk": {},
+  "vi": {},
+  "zh-CN": {},
+  "zh-Hant": {}
 }

@@ -1,25 +1,8 @@
 {
   "@@info": [
     "Here are translations that exist in secondary locales but not in <en>.",
-    "[--full enabled] Furthermore, translations not used in 'lib/' according to the 't.<path>' pattern are written into <en>."
+    "You may run 'dart run slang analyze --full' to also check translations not used in the source code."
   ],
-  "en": {
-    "Components": {
-      "VipLifetimeUnsubscribePopup": {
-        "Title": "VIP Lifetime Upgrade",
-        "Message": "Thank you for upgrading to VIP Lifetime!\n\nSince this is an upgrade, your previous monthly VIP subscription may still be active. Please use the link below to cancel the monthly plan and avoid any future charges. Thank you!",
-        "ManageSubscriptionButton": "Manage Subscription",
-        "DontShowAgainButton": "Don't show this again"
-      }
-    },
-    "Scenes": {
-      "StoreScene": {
-        "Messages": {
-          "VipAlready": "You are already ${vip: String}!"
-        }
-      }
-    }
-  },
   "ar": {},
   "de": {},
   "es": {},

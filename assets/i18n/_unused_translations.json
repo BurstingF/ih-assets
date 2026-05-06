@@ -1,26 +1,347 @@
 {
   "@@info": [
     "Here are translations that exist in secondary locales but not in <en>.",
-    "You may run 'dart run slang analyze --full' to also check translations not used in the source code."
+    "[--full enabled] Furthermore, translations not used in 'lib/' according to the 't.<path>' pattern are written into <en>."
   ],
-  "ar": {},
-  "de": {},
-  "es": {},
-  "fil": {},
-  "fr": {},
-  "id": {},
-  "it": {},
-  "ja": {},
-  "ko": {},
-  "ms": {},
-  "nl": {},
-  "pl": {},
-  "pt-BR": {},
-  "ru": {},
-  "th": {},
-  "tr": {},
-  "uk": {},
-  "vi": {},
-  "zh-CN": {},
-  "zh-Hant": {}
+  "en": {},
+  "ar": {
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "أنت بالفعل ${vip: String}!"
+        }
+      },
+      "RuneCollectionScene": {
+        "UpgradeStorageConfirm": "ترقية مخزون الرونز بفتحة واحدة مقابل 1,000 جوهرة؟"
+      }
+    },
+    "Values": {
+      "Common": {
+        "Unknown": "غير معروف"
+      }
+    }
+  },
+  "de": {
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "Du bist bereits ${vip: String}!"
+        }
+      },
+      "RuneCollectionScene": {
+        "UpgradeStorageConfirm": "Runenlager um einen Platz für 1.000 Juwelen erweitern?"
+      }
+    },
+    "Values": {
+      "Common": {
+        "Unknown": "Unbekannt"
+      }
+    }
+  },
+  "es": {
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "¡Ya eres ${vip: String}!"
+        }
+      },
+      "RuneCollectionScene": {
+        "UpgradeStorageConfirm": "¿Ampliar el almacén de runas una ranura por 1.000 gemas?"
+      }
+    },
+    "Values": {
+      "Common": {
+        "Unknown": "Desconocido"
+      }
+    }
+  },
+  "fil": {
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "Ikaw ay ${vip: String} na!"
+        }
+      },
+      "RuneCollectionScene": {
+        "UpgradeStorageConfirm": "I-upgrade ang rune storage ng isang slot para sa 1,000 gems?"
+      }
+    },
+    "Values": {
+      "Common": {
+        "Unknown": "Hindi alam"
+      }
+    }
+  },
+  "fr": {
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "Tu es déjà ${vip: String} !"
+        }
+      },
+      "RuneCollectionScene": {
+        "UpgradeStorageConfirm": "Augmenter le stockage de runes d'un emplacement pour 1 000 gemmes ?"
+      }
+    },
+    "Values": {
+      "Common": {
+        "Unknown": "Inconnu"
+      }
+    }
+  },
+  "id": {
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "Anda sudah ${vip: String}!"
+        }
+      },
+      "RuneCollectionScene": {
+        "UpgradeStorageConfirm": "Tingkatkan penyimpanan rune 1 slot dengan 1.000 permata?"
+      }
+    },
+    "Values": {
+      "Common": {
+        "Unknown": "Tidak diketahui"
+      }
+    }
+  },
+  "it": {
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "Sei già ${vip: String}!"
+        }
+      },
+      "RuneCollectionScene": {
+        "UpgradeStorageConfirm": "Ampliare lo spazio rune di uno slot per 1.000 gemme?"
+      }
+    },
+    "Values": {
+      "Common": {
+        "Unknown": "Sconosciuto"
+      }
+    }
+  },
+  "ja": {
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "すでに ${vip: String} です！"
+        }
+      },
+      "RuneCollectionScene": {
+        "UpgradeStorageConfirm": "ルーン倉庫を 1スロット、1000ジェムで拡張しますか？"
+      }
+    },
+    "Values": {
+      "Common": {
+        "Unknown": "不明"
+      }
+    }
+  },
+  "ko": {
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "이미 ${vip: String}입니다!"
+        }
+      },
+      "RuneCollectionScene": {
+        "UpgradeStorageConfirm": "룬 저장소를 1칸 늘리시겠습니까? (보석 1,000개)"
+      }
+    },
+    "Values": {
+      "Common": {
+        "Unknown": "알 수 없음"
+      }
+    }
+  },
+  "ms": {
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "Anda sudah ${vip: String}!"
+        }
+      },
+      "RuneCollectionScene": {
+        "UpgradeStorageConfirm": "Naik taraf stor rune 1 slot dengan 1,000 permata?"
+      }
+    },
+    "Values": {
+      "Common": {
+        "Unknown": "Tidak diketahui"
+      }
+    }
+  },
+  "nl": {
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "Je bent al ${vip: String}!"
+        }
+      },
+      "RuneCollectionScene": {
+        "UpgradeStorageConfirm": "Runenopslag met één slot uitbreiden voor 1.000 edelstenen?"
+      }
+    },
+    "Values": {
+      "Common": {
+        "Unknown": "Onbekend"
+      }
+    }
+  },
+  "pl": {
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "Już jesteś ${vip: String}!"
+        }
+      },
+      "RuneCollectionScene": {
+        "UpgradeStorageConfirm": "Rozszerzyć magazyn run o 1 miejsce za 1 000 klejnotów?"
+      }
+    },
+    "Values": {
+      "Common": {
+        "Unknown": "Nieznany"
+      }
+    }
+  },
+  "pt-BR": {
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "Você já é ${vip: String}!"
+        }
+      },
+      "RuneCollectionScene": {
+        "UpgradeStorageConfirm": "Expandir o armazenamento de runas em 1 espaço por 1.000 gemas?"
+      }
+    },
+    "Values": {
+      "Common": {
+        "Unknown": "Desconhecido"
+      }
+    }
+  },
+  "ru": {
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "Вы уже ${vip: String}!"
+        }
+      },
+      "RuneCollectionScene": {
+        "UpgradeStorageConfirm": "Расширить хранилище рун на 1 слот за 1 000 самоцветов?"
+      }
+    },
+    "Values": {
+      "Common": {
+        "Unknown": "Неизвестно"
+      }
+    }
+  },
+  "th": {
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "คุณเป็น ${vip: String} อยู่แล้ว!"
+        }
+      },
+      "RuneCollectionScene": {
+        "UpgradeStorageConfirm": "อัปเกรดที่เก็บรูนเพิ่ม 1 ช่องด้วยเพชร 1,000?"
+      }
+    },
+    "Values": {
+      "Common": {
+        "Unknown": "ไม่ทราบ"
+      }
+    }
+  },
+  "tr": {
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "Zaten ${vip: String} sınız!"
+        }
+      },
+      "RuneCollectionScene": {
+        "UpgradeStorageConfirm": "Rune deposunu 1.000 mücevher karşılığında 1 yuva genişlet?"
+      }
+    },
+    "Values": {
+      "Common": {
+        "Unknown": "Bilinmiyor"
+      }
+    }
+  },
+  "uk": {
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "Ви вже ${vip: String}!"
+        }
+      },
+      "RuneCollectionScene": {
+        "UpgradeStorageConfirm": "Розширити сховище рун на 1 слот за 1 000 самоцвітів?"
+      }
+    },
+    "Values": {
+      "Common": {
+        "Unknown": "Невідомо"
+      }
+    }
+  },
+  "vi": {
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "Bạn đã là ${vip: String}!"
+        }
+      },
+      "RuneCollectionScene": {
+        "UpgradeStorageConfirm": "Mở rộng kho rune thêm 1 ô với 1.000 ngọc?"
+      }
+    },
+    "Values": {
+      "Common": {
+        "Unknown": "Không xác định"
+      }
+    }
+  },
+  "zh-CN": {
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "你已经是${vip: String}了！"
+        }
+      },
+      "RuneCollectionScene": {
+        "UpgradeStorageConfirm": "花费1000宝石 将符文仓库 扩容1格？"
+      }
+    },
+    "Values": {
+      "Common": {
+        "Unknown": "未知"
+      }
+    }
+  },
+  "zh-Hant": {
+    "Scenes": {
+      "StoreScene": {
+        "Messages": {
+          "VipAlready": "你已經是 ${vip: String}！"
+        }
+      },
+      "RuneCollectionScene": {
+        "UpgradeStorageConfirm": "花費1000寶石 將符文倉庫 擴容1格？"
+      }
+    },
+    "Values": {
+      "Common": {
+        "Unknown": "未知"
+      }
+    }
+  }
 }
